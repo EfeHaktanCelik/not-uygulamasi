@@ -2,7 +2,4 @@
 
 Basit bir not uygulamasi projesidir.
 
-
-
-Geliştirici: Efe Haktan Celik (main versiyonu)
-
+Geliştirici: Efe Haktan Celik (main ve feature versiyonları)
