@@ -10,3 +10,4 @@ Linux Komutlari ve Aciklamalari
 8. git commit: Değişiklikleri kaydeder.
 9. git log: Önceki commitleri gösterir.
 10. git branch: Branch listesini gösterir.
+11. git switch: Branchler arasinda gecis yapar.
