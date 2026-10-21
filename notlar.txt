@@ -1,0 +1,7 @@
+Linux Komutlari ve Aciklamalari
+
+1. pwd: Bulundugum dizini gosterir.
+2. ls: Dizin icindeki dosyalari listeler.
+3. cd: Baska bir dizine gecmemizi saglar.
+4. mkdir: Yeni bir dizin olusturur.
+5. clear: Terminal ekranini temizler.
